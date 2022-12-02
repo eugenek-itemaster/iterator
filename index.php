@@ -8,4 +8,6 @@ foreach ($iterator as $value) {
     echo "---------" . PHP_EOL;
 
     echo "PTNPNH";
+
+    echo "PUTIN XYILO";
 }
