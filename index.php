@@ -12,4 +12,6 @@ foreach ($iterator as $value) {
     echo "PUTIN XYILO";
 
     echo "KATSAPI PIDARASI";
+
+    echo "tags";
 }
